@@ -1,5 +1,4 @@
-Let's focus on creating the queen module. Here's some initial code to get started:
-```python
+'''python
 import tensorflow as tf
 from tensorflow import keras
 from numpy import array
